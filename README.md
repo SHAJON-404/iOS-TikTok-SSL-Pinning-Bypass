@@ -13,16 +13,17 @@
 ![TikTok iOS](assets/v46.3.0-2.jpg)
 
 ## ✅ Other Apps
-1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
-2. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
-3. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
-4. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
-5. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
-6. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
-7. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
-8. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
-9. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
-10. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+1. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
+2. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
+3. [Facebook iOS](https://github.com/shajon-dev/iOS-Facebook-SSL-Pinning-Bypass)
+4. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
+5. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
+6. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
+7. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
+8. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
+9. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
+10. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+11. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Modified IPA
   - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
