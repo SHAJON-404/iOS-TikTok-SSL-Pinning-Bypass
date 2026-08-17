@@ -4,13 +4,13 @@
 > 💡 **GOOD NEWS:** You do **not** need a jailbroken device to use this! It works flawlessly on **non-jailbroken** devices and has been successfully tested using **Mitmproxy**.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **46.3.0**
+- App version: **46.4.0**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![TikTok iOS](assets/v46.3.0-1.jpg)
-![TikTok iOS](assets/v46.3.0-2.jpg)
+![TikTok iOS](assets/v46.4.0-1.jpg)
+![TikTok iOS](assets/v46.4.0-2.jpg)
 
 ## ✅ Other Apps
 1. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
@@ -26,9 +26,8 @@
 11. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Modified IPA
-  - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
-  - Please note that the latest version is a paid release and is not available for free download.
-  - Check the **Releases** section for the free version or click download link below.
+  - Read the [setup process](#-setup-process) carefully before use.
+  - **Note:** The current version (46.4.0) is provided as a **free version**. For any issues or to request access to **upcoming latest versions**, please [contact me](https://t.me/SHAJON) on Telegram.
 <table width="100%">
   <thead>
     <tr>
@@ -36,16 +35,16 @@
       <th align="center">Version</th>
       <th align="center">Status</th>
       <th align="center">Non-Jailbreak</th>
-      <th align="center">Download link</th>
+      <th align="center">Download Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><code>com.zhiliaoapp.musically</code></td>
-      <td align="center">46.3.0</td>
+      <td align="center">46.4.0</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
-      <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
+      <td align="center"><a href="https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass/releases">Download Link</a></td>
     </tr>
   </tbody>
 </table>
