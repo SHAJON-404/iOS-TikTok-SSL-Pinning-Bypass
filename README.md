@@ -1,16 +1,25 @@
+<div align="center">
+
 # 🔐 iOS-TikTok-SSL-Pinning-Bypass
-📡 Intercept TikTok network traffic on iOS/iPad OS device.
+📡 Capture and inspect TikTok's network traffic on iOS — no jailbreak required.
 
 > 💡 **GOOD NEWS:** You do **not** need a jailbroken device to use this! It works flawlessly on **non-jailbroken** devices and has been successfully tested using **Mitmproxy**.
 
+</div>
+
+---
+
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **46.4.0**
+- App version: **46.5.0**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
+---
+
 ## 🎥 Evidence
-![TikTok iOS](assets/v46.4.0-1.jpg)
-![TikTok iOS](assets/v46.4.0-2.jpg)
+![TikTok iOS](assets/v46.5.0.jpg)
+
+---
 
 ## ✅ Other Apps
 1. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
@@ -25,9 +34,12 @@
 10. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
 11. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
 
+---
+
 ## 📦 For Demo - Download Modified IPA
-  - Read the [setup process](#-setup-process) carefully before use.
-  - **Note:** The current version (46.4.0) is provided as a **free version**. For any issues or to request access to **upcoming latest versions**, please [contact me](https://t.me/SHAJON) on Telegram.
+  - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
+  - Please note that the latest version is a paid release and is not available for free download.
+  - Check the **Releases** section for the free version or click download link below.
 <table width="100%">
   <thead>
     <tr>
@@ -40,8 +52,14 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><code>com.zhiliaoapp.musically</code></td>
-      <td align="center">46.4.0</td>
+      <td rowspan="2" align="center"><code>com.zhiliaoapp.musically</code></td>
+      <td align="center">46.5.0</td>
+      <td align="center">✅ Bypassed</td>
+      <td align="center">✅ Yes</td>
+      <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
+    </tr>
+    <tr>
+      <td align="center">46.3.0</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass/releases">Download Link</a></td>
@@ -49,14 +67,32 @@
   </tbody>
 </table>
 
+---
+
+<div align="center">
+
+### ⭐ Found this useful?
+
+**Star the repository** to support the project and stay updated with new free releases!
+
+</div>
+
+---
+
 ## 📱 Requirements
-1. 🔓 iPhone / iPad [No need jailbroken device]
-2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
+1. 📱 **Operating System:** iOS or iPadOS 17.0 and above.
+2. 🔓 **Device Status:** Non-jailbroken devices are fully supported (no jailbreak required).
+3. 🔄 **Traffic Analysis Tools:** A proxy tool for network traffic interception, such as [Mitmproxy](https://mitmproxy.org/) or [Reqable](https://reqable.com/).
+
+---
 
 ## 🔧 Setup Process
- 1. 🔄 **Install Modified IPA** via [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign).
- 2. 💀 Use your personal certificate. Do NOT use public iOS IPA signing certificates.
- 3. 📊 Use any packet capture tool to monitor TikTok network traffic.
+ 1. ⬇️ **Download the IPA file** from the repository's Releases section.
+ 2. 🔄 **Install the IPA** using [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign). *(Note: Use your personal certificate. Do NOT use public iOS IPA signing certificates.)*
+ 3. ⚙️ **Configure the local proxy** (e.g., mitmproxy) in your device's Wi-Fi settings.
+ 4. 🚀 **Open the TikTok app**. You will immediately see a popup: *"Allow 'TikTok' to find devices on local networks?"*. ⚠️ You **MUST** tap **Allow**. Once allowed, all traffic will be seamlessly captured in `mitmproxy/mitmweb` without any issues.
+
+---
 
 ## 💼 Professional Services & Custom Solutions
 
@@ -74,6 +110,8 @@ If a specific bypass is not available on my GitHub, or if you have a custom proj
     <img src="https://img.shields.io/badge/💬_Let's_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+
+---
 
 ## ☕ Buy Me a Coffee
 
